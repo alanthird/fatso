@@ -1,0 +1,29 @@
+# Colors (Fatso)
+
+[colors.primary]
+background = '#242424'
+foreground = '#f6f3e8'
+
+[colors.cursor]
+cursor  = '#f29112'
+text    = '#f6f3e8'
+
+[colors.normal]
+black   = '#242424'
+red     = '#b85149'
+green   = '#92a65e'
+yellow  = '#ccaa8f'
+blue    = '#5b98c2'
+magenta = '#64619a'
+cyan    = '#3f9f9e'
+white   = '#f6f3e8'
+
+[colors.bright]
+black   = '#444444'
+red     = '#e5786d'
+green   = '#95e454'
+yellow  = '#edc4a3'
+blue    = '#8ac6f2'
+magenta = '#a6a1de'
+cyan    = '#70cecc'
+white   = '#ffffff'
