@@ -1,0 +1,28 @@
+!Fatso
+! orange cursor
+URxvt*cursorColor: #f29112
+
+! black
+*color0:      #242424
+*color8:      #444444
+! red
+*color1:      #b85149
+*color9:      #e5786d
+! green
+*color2:      #92a65e
+*color10:     #95e454
+! yellow
+*color3:      #ccaa8f
+*color11:     #edc4a3
+! blue
+*color4:      #5b98c2
+*color12:     #8ac6f2
+! magenta
+*color5:      #64619a
+*color13:     #a6a1de
+! cyan
+*color6:      #3f9f9e
+*color14:     #70cecc
+! white
+*color7:      #f6f3e8
+*color15:     #ffffff
