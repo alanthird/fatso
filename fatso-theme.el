@@ -150,7 +150,20 @@
      `(message-cited-text-2 ((,class (:foreground ,(nth 1 outline)))))
      `(message-cited-text-3 ((,class (:foreground ,(nth 2 outline)))))
      `(message-cited-text-4 ((,class (:foreground ,(nth 3 outline)))))
-     
+
+     ;; post-mode faces
+     `(post-quoted-text-face ((,class (:foreground ,green2))))
+     `(post-double-quoted-text-face ((,class (:foreground ,brown2))))
+     `(post-multiply-quoted-text-face ((,class (:foreground ,blue1))))
+     `(post-signature-text-face ((,class (:inherit shadow))))
+     `(post-bold-face ((,class (:inherit bold))))
+     `(post-email-address-text-face ((,class (:foreground ,green0))))
+     `(post-emoticon-face ((,class (:background ,brown0 :foreground ,gray0))))
+     `(post-header-keyword-face ((,class (:foreground ,blue1))))
+     `(post-header-value-face ((,class (:inherit default))))
+     `(post-underline-face ((,class (:inherit underline))))
+     `(post-url-face ((,class (:foreground ,bluegreen1))))
+
      ;; ANSI colors
      `(ansi-color-black ((,class (:background ,gray0 :foreground ,gray0))))
      `(ansi-color-red ((,class (:background ,red0 :foreground ,red0))))
