@@ -1,0 +1,23 @@
+{
+    "name": "Fatso",
+    "background": "#171717",
+    "black": "#000000",
+    "blue": "#5DA9F6",
+    "brightBlack": "#313131",
+    "brightBlue": "#A5C7FF",
+    "brightCyan": "#B7FFF9",
+    "brightGreen": "#DDF88F",
+    "brightPurple": "#DDAAFF",
+    "brightRed": "#F58C80",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#EEE5B2",
+    "cursorColor": "#F29112",
+    "cyan": "#82FFF7",
+    "foreground": "#DEDACF",
+    "green": "#B1E969",
+    "purple": "#E86AFF",
+    "red": "#FF615A",
+    "selectionBackground": "#453B39",
+    "white": "#DEDACF",
+    "yellow": "#EBD99C"
+}
